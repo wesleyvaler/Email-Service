@@ -1,5 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-11-orange)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.5-brightgreen)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-brightgreen)
 
 O projeto "Email Service" representa uma solução eficiente e flexível para facilitar o envio de e-mails em aplicações Java. Com uma estrutura modular, o serviço oferece uma abordagem versátil, permitindo fácil integração em diversos projetos. Desde a clara representação de mensagens de e-mail até a implementação robusta usando o JavaMailSender do Spring, cada componente foi desenvolvido visando a simplicidade e eficácia.
 
